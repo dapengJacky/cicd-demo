@@ -16,7 +16,7 @@ public class K8sController {
 
     @GetMapping("/test")
     public String test(){
-        return "jacky test cicd111";
+        return "jacky test cicd111 222";
     }
 
 }
